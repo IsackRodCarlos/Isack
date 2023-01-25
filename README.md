@@ -14,9 +14,7 @@ r studio**
 3. Working With Files and Directories.
 - How can I create, copy, and delete files and directories?
 - How can I edit files?
-- [capentries resource](
-Version Control with Git: https://swcarpentry.github.io/git-novice/)
-- [coding resources](
+- [capentries resource](Version Control with Git: https://swcarpentry.github.io/git-novice/)
 
 
-The Unix Shell: https://swcarpentry.github.io/shell-novice/)
+
