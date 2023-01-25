@@ -16,6 +16,7 @@ r studio**
 - How can I edit files?
 - [capentries resource](
 Version Control with Git: https://swcarpentry.github.io/git-novice/)
+- [coding resources](
 
 
-
+The Unix Shell: https://swcarpentry.github.io/shell-novice/)
