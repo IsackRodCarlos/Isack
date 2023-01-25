@@ -14,9 +14,8 @@ r studio**
 3. Working With Files and Directories.
 - How can I create, copy, and delete files and directories?
 - How can I edit files?
-# DAY 3
-**We are doing introduction to github**
-# DAY 4
+- [capentries resource](
+Version Control with Git: https://swcarpentry.github.io/git-novice/)
 
 
-# DAY 5
+
