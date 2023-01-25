@@ -3,8 +3,11 @@
 i will write in the bioinfomartics as from monday 23 january to 27 january 2023
 
 # DAY 1
-**Installation of relevant informations. we installed in gitbash
-r studio**
+**Installation of information**
+-Install
+1. gitbash
+2. R and r studio
+
 # DAY 2
 1.Introducing the Shell.
 - What is a command shell and why would I use one?
